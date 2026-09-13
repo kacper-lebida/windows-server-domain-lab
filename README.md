@@ -44,7 +44,7 @@ No VM image, product key, password, customer data or school instruction sheet is
 
 The source screenshot is dated 12 February 2022. Techland contains Dyinglight and Dyinglight2; CDProjektRED contains Cyberpunk and Wiedźmin. These are fictional lab account names. The image supports the group-membership example, but does not by itself prove effective GPO application or a successful client domain login.
 
-Source: my Windows Server installation and basic roles tutorial. The image is unchanged; the English case study was adapted with Codex assistance on 13 September 2026.
+Source: my Windows Server installation and basic roles tutorial. The image is unchanged; the English case study was adapted on 13 September 2026.
 
 ## DHCP client evidence
 
